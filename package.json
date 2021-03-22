@@ -22,8 +22,7 @@
     "dockerfile_lint": "dockerfile_lint"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/nvm-sh/nvm.git"
+    "type": "git"
   },
   "keywords": [
     "nvm",
@@ -32,12 +31,7 @@
     "version",
     "manager"
   ],
-  "author": "Tim Caswell <tim@creationix.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nvm-sh/nvm/issues"
-  },
-  "homepage": "https://github.com/nvm-sh/nvm",
   "devDependencies": {
     "dockerfile_lint": "^0.3.2",
     "doctoc": "^2.0.0",
